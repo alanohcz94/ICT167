@@ -1,2 +1,0 @@
-hello i am alan
-this is a test of git using vim
