@@ -1,0 +1,11 @@
+Jane 65
+Ben 35
+Ben 90
+Sam 75
+Tim 30
+Bob 32
+Jack 55
+Key 15
+Tom 20
+Rick 15
+Tim 85
